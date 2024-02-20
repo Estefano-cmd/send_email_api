@@ -112,3 +112,4 @@ C:\Users\Consultor02\Desktop\api-facturacion\FacturacionApi\bin\Debug\net8.0\ko\
 C:\Users\Consultor02\Desktop\api-facturacion\FacturacionApi\bin\Debug\net8.0\ru\Microsoft.Spatial.resources.dll
 C:\Users\Consultor02\Desktop\api-facturacion\FacturacionApi\bin\Debug\net8.0\zh-Hans\Microsoft.Spatial.resources.dll
 C:\Users\Consultor02\Desktop\api-facturacion\FacturacionApi\bin\Debug\net8.0\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Consultor02\Desktop\api-facturacion\FacturacionApi\obj\Debug\net8.0\FacturacionApi.sourcelink.json
